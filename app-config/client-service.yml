@@ -3,4 +3,4 @@ spring:
     name: client-service
 
   email:
-    sender: nguyentiendongyêum
+    sender: nguyentiendonghetyeuemroi
